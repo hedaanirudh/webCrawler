@@ -19,10 +19,10 @@ Project Set-Up
 3. Install dependent packages - 'pip install -r requirements.txt'
 4. Run Crawler - 'python crawler.py'
 
-##References used
-•	https://www.dotnetlovers.com/Article/203/implementing-crawler-using-python--search-engine-implementation-part-1
-•	https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_souping_the_page.htm
-•	https://pknerd.medium.com/develop-your-first-web-crawler-in-python-scrapy-6b2ee4baf954
-•	https://www.analyticsvidhya.com/blog/2020/11/words-that-matter-a-simple-guide-to-keyword-extraction-in-python/
+## References used
+1. https://www.dotnetlovers.com/Article/203/implementing-crawler-using-python--search-engine-implementation-part-1
+2. https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_souping_the_page.html
+3. https://pknerd.medium.com/develop-your-first-web-crawler-in-python-scrapy-6b2ee4baf954
+4. https://www.analyticsvidhya.com/blog/2020/11/words-that-matter-a-simple-guide-to-keyword-extraction-in-python/
 
 
