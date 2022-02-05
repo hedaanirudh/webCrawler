@@ -1,6 +1,6 @@
 # Web Crawler
 
-This is a simple-focused web crawler designed to crawl 1000 web pages of a specific domain starting from georgia tech's website. It uses DFS to identify URLs and subsequent scrape data from it. It reads the contents, extracts keywords by calculating the TF-IDF scores of the words per page and then finally stores this data, the indexed words and all the statistics captured during the process in an Excel.
+This is a simple, focused web crawler designed to crawl 1000 web pages of a specific domain starting from georgia tech's website. It uses DFS to identify URLs and subsequently scrape data from it. It reads the contents, extracts keywords by calculating the TF-IDF scores of the words per page and then finally stores this data, the indexed words and all the statistics captured during the process in an Excel.
 
 File Descirptions - 
 ### crawler.py
