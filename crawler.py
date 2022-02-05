@@ -21,10 +21,10 @@ class WebCrawler:
         self.total_url_count = 0
         self.unique_urls_encountered = set()
         self.domain = "gatech"
-        self.max_pages = 20
+        self.max_pages = 1000
         self.start_time = time.time()
         self.previous_time = time.time()
-        self.interval = 5
+        self.interval = 100
         self.time_tracker = {}
         self.unique_words = set()
         self.keyword_extractor = KeyWordExtractor()
